@@ -1,0 +1,11 @@
+class q2
+{
+   pulic static void main(String[]args)
+{
+   int a=74;
+   int b=36; 
+   int sum;
+   sum=a+b;
+    System.out.print("sum is:"+sum);
+  }
+}

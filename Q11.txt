@@ -1,0 +1,12 @@
+class Q11
+{
+public static void main(String[] args)
+{
+  double r=7.5;
+   double pi=3.14;
+   double d=2*pi*r*R
+   double e=pi*r*r;
+    System.out.print(d);
+     system.out.print(e);
+   }
+}

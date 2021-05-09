@@ -1,0 +1,15 @@
+import java.util.scanner;
+class q2
+{
+   pulic static void main(String[]args)
+{
+   Scanner sc=new Scanner(System.in);
+   System.out.print("enter the first number");
+    int num1=scan.nextInt();
+    System.out.print("enter the second number");
+    int num2=scan.nextInt();
+    int product=num1*num2;
+    System.out.print("output:"+product);
+    }
+}
+   

@@ -1,0 +1,11 @@
+class Q3
+{
+   pulic static void main(String[]args)
+{
+   int a=50;
+   int b=3; 
+   int div;
+   div=a/b;
+    System.out.print("div is:"+div);
+  }
+}

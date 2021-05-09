@@ -1,0 +1,12 @@
+class Q13
+{
+public static void main(String[] args)
+{
+  double h=8.5;
+   double w=5.5;
+   double p=2(h+w);
+    double a=h*w;
+    System.out.print(p);
+     system.out.print(a);
+   }
+}

@@ -1,0 +1,8 @@
+class q1
+{
+   pulic static void main(String[] args)
+{
+   System.out.println("Hello");
+   System.out.println("pravin")
+  }
+}
